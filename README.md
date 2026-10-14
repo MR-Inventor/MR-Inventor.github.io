@@ -1,1 +1,1 @@
-# MR-Inventor.github.io
+# https://mr-inventor.github.io/
